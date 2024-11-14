@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 🌱 My projects
+### QA GURU
+*Дипломный проект*
+
+[UI](https://github.com/anna-sigida/qa_guru_d_ui)
+[API](https://github.com/anna-sigida/QA_GURU_HW_API_BOOKS)
+[MOBILE](https://github.com/anna-sigida/QA_GURU_BS1/tree/BS_fix) 
+
+
 <!--
 **anna-sigida/anna-sigida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
